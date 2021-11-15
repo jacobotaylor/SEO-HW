@@ -23,12 +23,15 @@
 - [usage](#usage)
 
 ## installation
-```npm install```
+this is a demo instal ```code.```
 
 ```js
-    var myVAl=0;
+    var myVAl=somethingaboutjava;
 ```
 
 ## Viusals
+<img src="./assets/images/search-engine-optimization.jpg" class="float-left" alt="SEO">Search Engine Optimization/>
+
 
 ## usage
+Steal everything and torrent constantly. property is theft. tm
