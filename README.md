@@ -4,7 +4,7 @@
 
 [MY HOMEWORK](https://jacobotaylor.github.io/SEO-HW/)
 
-![my image](random png "hover text")
+<img src="assets/images/Horiseon SEO.png"> (seo website)
 
 1. 1 
 2. 2
@@ -22,6 +22,9 @@
 - [visuals](#visuals)
 - [usage](#usage)
 
+## description
+Scroll the page
+
 ## installation
 this is a demo instal ```code.```
 
@@ -34,4 +37,4 @@ this is a demo instal ```code.```
 
 
 ## usage
-Steal everything and torrent constantly. property is theft. tm
+i think this is like a legal section maybe. property is theft. tm
